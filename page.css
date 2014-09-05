@@ -1,0 +1,28 @@
+article, aside, details, figcaption, figure, footer, header,
+hgroup, menu, nav, section { 
+  display: block; 
+}
+body {
+    background-image: url(http://infinity-gaming.org/assets/background.jpg);  
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+canvas {
+  display: block;
+  margin: 0 auto;
+  background-image: url(http://www.chimpout.com/forum/imagehosting/103765381631b49238.gif);  
+
+}
+fb-like {
+  text-align: center;
+}
+
+
+
+h1 {
+     color: #00ff00;
+ }
